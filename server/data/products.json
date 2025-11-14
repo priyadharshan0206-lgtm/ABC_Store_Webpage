@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Wireless Bluetooth Headphones",
+    "description": "Premium noise-canceling wireless headphones with 30-hour battery life and superior sound quality.",
+    "price": 2999,
+    "imageUrl": "/uploads/products/headphones.jpg",
+    "category": "Electronics",
+    "stock": 15
+  },
+  {
+    "name": "Smart Watch Pro",
+    "description": "Fitness tracking smartwatch with heart rate monitor, GPS, and water resistance.",
+    "price": 4999,
+    "imageUrl": "/uploads/products/smartwatch.jpg",
+    "category": "Electronics",
+    "stock": 20
+  },
+  {
+    "name": "Organic Cotton T-Shirt",
+    "description": "Comfortable and sustainable organic cotton t-shirt available in multiple colors.",
+    "price": 599,
+    "imageUrl": "/uploads/products/tshirt.jpg",
+    "category": "Clothing",
+    "stock": 50
+  },
+  {
+    "name": "Running Shoes",
+    "description": "Lightweight and breathable running shoes with advanced cushioning technology.",
+    "price": 2499,
+    "imageUrl": "/uploads/products/shoes.jpg",
+    "category": "Clothing",
+    "stock": 25
+  },
+  {
+    "name": "Coffee Maker Deluxe",
+    "description": "Automatic drip coffee maker with programmable timer and thermal carafe.",
+    "price": 3499,
+    "imageUrl": "/uploads/products/coffee-maker.jpg",
+    "category": "Home & Kitchen",
+    "stock": 12
+  },
+  {
+    "name": "Stainless Steel Water Bottle",
+    "description": "Insulated double-wall water bottle that keeps drinks cold for 24 hours.",
+    "price": 799,
+    "imageUrl": "/uploads/products/water-bottle.jpg",
+    "category": "Home & Kitchen",
+    "stock": 30
+  },
+  {
+    "name": "JavaScript: The Complete Guide",
+    "description": "Comprehensive guide to modern JavaScript development with practical examples.",
+    "price": 899,
+    "imageUrl": "/uploads/products/js-book.jpg",
+    "category": "Books",
+    "stock": 40
+  },
+  {
+    "name": "Yoga Mat Premium",
+    "description": "Non-slip eco-friendly yoga mat with extra cushioning for comfort.",
+    "price": 1299,
+    "imageUrl": "/uploads/products/yoga-mat.jpg",
+    "category": "Sports",
+    "stock": 35
+  },
+  {
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with precision tracking and long battery life.",
+    "price": 899,
+    "imageUrl": "/uploads/products/mouse.jpg",
+    "category": "Electronics",
+    "stock": 45
+  },
+  {
+    "name": "Denim Jeans",
+    "description": "Classic fit denim jeans with comfort stretch and premium quality fabric.",
+    "price": 1999,
+    "imageUrl": "/uploads/products/jeans.jpg",
+    "category": "Clothing",
+    "stock": 30
+  },
+  {
+    "name": "Blender Pro",
+    "description": "High-powered blender perfect for smoothies, soups, and food processing.",
+    "price": 4299,
+    "imageUrl": "/uploads/products/blender.jpg",
+    "category": "Home & Kitchen",
+    "stock": 18
+  },
+  {
+    "name": "Cookbook Collection",
+    "description": "Collection of 100+ international recipes with beautiful photography.",
+    "price": 1299,
+    "imageUrl": "/uploads/products/cookbook.jpg",
+    "category": "Books",
+    "stock": 25
+  },
+  {
+    "name": "Tennis Racket",
+    "description": "Professional grade tennis racket with excellent balance and power.",
+    "price": 3999,
+    "imageUrl": "/uploads/products/tennis-racket.jpg",
+    "category": "Sports",
+    "stock": 15
+  },
+  {
+    "name": "Building Blocks Set",
+    "description": "Educational building blocks set for creative play and learning.",
+    "price": 1599,
+    "imageUrl": "/uploads/products/blocks.jpg",
+    "category": "Toys",
+    "stock": 20
+  },
+  {
+    "name": "Laptop Stand",
+    "description": "Adjustable aluminum laptop stand for better ergonomics and cooling.",
+    "price": 1899,
+    "imageUrl": "/uploads/products/laptop-stand.jpg",
+    "category": "Electronics",
+    "stock": 22
+  },
+  {
+    "name": "Winter Jacket",
+    "description": "Warm and waterproof winter jacket with removable hood and pockets.",
+    "price": 3999,
+    "imageUrl": "/uploads/products/jacket.jpg",
+    "category": "Clothing",
+    "stock": 18
+  },
+  {
+    "name": "Air Fryer",
+    "description": "Healthy cooking air fryer with rapid air technology and easy cleanup.",
+    "price": 5999,
+    "imageUrl": "/uploads/products/air-fryer.jpg",
+    "category": "Home & Kitchen",
+    "stock": 10
+  },
+  {
+    "name": "Fiction Novel Bundle",
+    "description": "Bestselling fiction novels bundle featuring award-winning authors.",
+    "price": 1999,
+    "imageUrl": "/uploads/products/novel-bundle.jpg",
+    "category": "Books",
+    "stock": 30
+  },
+  {
+    "name": "Dumbbells Set",
+    "description": "Adjustable dumbbells set with weight plates for home workouts.",
+    "price": 3499,
+    "imageUrl": "/uploads/products/dumbbells.jpg",
+    "category": "Sports",
+    "stock": 12
+  },
+  {
+    "name": "Board Game Classic",
+    "description": "Strategic board game perfect for family game nights and gatherings.",
+    "price": 999,
+    "imageUrl": "/uploads/products/board-game.jpg",
+    "category": "Toys",
+    "stock": 28
+  },
+  {
+    "name": "USB-C Hub",
+    "description": "Multi-port USB-C hub with HDMI, USB 3.0, and SD card reader.",
+    "price": 1499,
+    "imageUrl": "/uploads/products/usb-hub.jpg",
+    "category": "Electronics",
+    "stock": 35
+  },
+  {
+    "name": "Casual Shirt",
+    "description": "Comfortable casual shirt perfect for office and weekend wear.",
+    "price": 1299,
+    "imageUrl": "/uploads/products/shirt.jpg",
+    "category": "Clothing",
+    "stock": 40
+  },
+  {
+    "name": "Electric Kettle",
+    "description": "Fast boiling electric kettle with temperature control and auto shut-off.",
+    "price": 1799,
+    "imageUrl": "/uploads/products/kettle.jpg",
+    "category": "Home & Kitchen",
+    "stock": 25
+  },
+  {
+    "name": "Self-Help Book",
+    "description": "Inspirational self-help book with practical life improvement strategies.",
+    "price": 699,
+    "imageUrl": "/uploads/products/self-help.jpg",
+    "category": "Books",
+    "stock": 45
+  },
+  {
+    "name": "Basketball",
+    "description": "Official size indoor/outdoor basketball with excellent grip.",
+    "price": 899,
+    "imageUrl": "/uploads/products/basketball.jpg",
+    "category": "Sports",
+    "stock": 32
+  },
+  {
+    "name": "Puzzle Game",
+    "description": "1000-piece jigsaw puzzle featuring beautiful landscape artwork.",
+    "price": 799,
+    "imageUrl": "/uploads/products/puzzle.jpg",
+    "category": "Toys",
+    "stock": 38
+  }
+]
